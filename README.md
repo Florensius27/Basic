@@ -14,7 +14,7 @@ Basic programmimg
 
 ## kalau mau ngedit nama bot, fitur, dan menu nya izin dulu ya
 
-##$ Social media
+### Social media
 ```bash
 1. Whatsapp = wa.me/62858941437457
 2. Instagram = Loren_27
