@@ -10,7 +10,7 @@ Basic programmimg
 3. ZArchiver
 ```
 
-## Kalau mau ambil script gausah mengatasnamakan github saya ya! 
+## Kalau mau ambil script tidak perlu mengatasnamakan github saya gpp ya! 
 
 ## kalau mau ngedit nama bot, fitur, dan menu nya izin dulu ya
 
